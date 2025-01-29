@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+
+
+@font-face {
+  font-family: mySpaceFont;
+  src: url('./assets/SpaceMono-Regular.ttf');
+}
+
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* background-color: #000; */
+  background: #654ea3;  
+  background: #E0EAFC;  
+  background: -webkit-linear-gradient(to right, #CFDEF3, #E0EAFC);  
+  background: linear-gradient(to right, #CFDEF3, #E0EAFC); 
+   
+  font-family: mySpaceFont;
+}
+
+/* #particles canvas{
+  z-index: -99999;
+  position: absolute;
+} */
