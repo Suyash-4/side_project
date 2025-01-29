@@ -2,7 +2,7 @@ import React from "react";
 import { Routes, Route, Link } from "react-router-dom";
 import Edudel from "./Pages/Edudel";
 import Home from "./Pages/Home";
-import Udise from "./Pages/udise";
+import Udise from "./Pages/Udise";
 import Edulife from "./Pages/Edulife";
 
 
