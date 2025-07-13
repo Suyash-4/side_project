@@ -17,7 +17,7 @@ const Edulife = () => {
       <>
         <div className="p-5 text-indigo-600">
           <a
-            href="https://mcdedulife.in/justified/#"
+            href="https://mcdedulife.in/MCD/"
             target="_blank"
             className="border-[2px] rounded-[5px] p-[5px] bg-emerald-200"
           >
