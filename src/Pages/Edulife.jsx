@@ -1,7 +1,8 @@
+/* eslint-disable no-unused-vars */
 import React, { useState } from "react";
 
 const Edulife = () => {
-  const pass = "Ayush@789";
+  const pass = "Shubh@678";
   const [showPassword, setShowPassword] = useState(false); // pass initially won't be visible
   const [hideButton, setHideButton] = useState(false); //button will be initially visible
   function reveal() {
